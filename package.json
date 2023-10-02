@@ -1,0 +1,22 @@
+{
+  "name": "calculator",
+  "version": "1.0.0",
+  "description": "A calculator created with nodejs, html, css, express",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Chukwueke Prince JD",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JuniDembele/Calculator.git"
+  },
+  "keywords": [
+    "Calculator"
+  ],
+  "bugs": {
+    "url": "https://github.com/JuniDembele/Calculator/issues"
+  },
+  "homepage": "https://github.com/JuniDembele/Calculator#readme"
+}
